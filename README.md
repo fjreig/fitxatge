@@ -36,7 +36,11 @@ Una vez dentro de la conversación del chat, apretar el botón "+" de al lado de
 
 ## 3. obtener User y shift ID
 
+### 3.1 ID Bizneo
 
+Ves a tu perfil de bizneo, despliega arriba a la derecha en el avatar y selecciona  "mi perfil"
+
+![Perfil Bizneo](img/id_bizneo.png)
 
 ## 4. Crear un Script para el fichaje
 
