@@ -1,5 +1,8 @@
 # fitxatge
 
+> [!IMPORTANT]
+> Información esencial para el éxito del usuario.
+
 ## 1. Crear un Script para el fichaje
 
 ### 1.1 Acceso a Apps Script
