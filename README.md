@@ -1,7 +1,7 @@
 # fitxatge
 
-> [!IMPORTANT]
-> Información esencial para el éxito del usuario.
+> [!CAUTION]
+> Es importante saber, que las cookies del Bizneo caducan cada pocos días, por lo que una vez por semana se tienen que obtener las cookies y pegarlas en el script.
 
 ## 1. Crear un Script para el fichaje
 
