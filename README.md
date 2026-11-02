@@ -28,6 +28,8 @@ El primer paso es seleccionar "programarFichajesDelDia" y después darle a "Ejec
 
 #### 2.5 Crear un activador
 
+El último paso, si funciona lo anterior, es crear un activador
+
 ![Menu activador](img/menu_activadores.png)
 
 ![Boton activador](img/boton_activador.png)
