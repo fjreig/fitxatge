@@ -6,6 +6,8 @@
 
 ![Network](img/network.png)
 
+Una vez en la pestaña Network, apretar "iniciar sesión". Si no se ve la pestaña network, ampliar la ventana horizontalmente
+
 ![Chromo](img/f12+chromo.png)
 
 ![Post](img/post.png)
