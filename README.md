@@ -20,7 +20,6 @@ Tanto el el fichero de Código.gs como el de secrets.gs, para el de secrets.gs h
 > [!NOTE]
 > Una vez pegado los dos códigos, apretar el botón de guardar para que no se pierda la información. El siguiente paso será obtener las cookies de la sesión de Bizneo
 
-
 ## 2. Obtener credenciales de Bizneo
 
 ### 2.1 Obtener cookies
@@ -28,7 +27,8 @@ Tanto el el fichero de Código.gs como el de secrets.gs, para el de secrets.gs h
 Una vez logeado en la pagina de bizneo, hay que apretar boton derecho con el raton y buscar "inspeccionar elemento"
 ![Inspeccionar](img/inspeccionar.png)
 
-Si no se ve la pestaña network, ampliar la ventana horizontalmente y seleccionar network
+> [!IMPORTANT]
+> Si no se ve la pestaña network, ampliar la ventana horizontalmente y seleccionar network.
 
 ![Network](img/network.png)
 
