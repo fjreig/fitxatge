@@ -26,6 +26,10 @@ Copiar todo el header de la derecha
 
 ## 2. Acceder al bot PavenerIA
 
+Buscar la aplicación de Google chat "PavenerIA"
+
+![PavenerIA](img/PavenerIA.png)
+
 ## 2. Crear un Script para el fichaje
 
 ### 2.1 Acceso a Apps Script
