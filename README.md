@@ -34,6 +34,10 @@ Una vez dentro de la conversación del chat, apretar el botón "+" de al lado de
 
 ![otros Agentes](img/otros_agentes.png)
 
+## 3. obtener User y shift ID
+
+
+
 ## 4. Crear un Script para el fichaje
 
 ### 4.1 Acceso a Apps Script
