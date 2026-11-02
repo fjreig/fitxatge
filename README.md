@@ -16,13 +16,15 @@ Una vez en la pestaña Network, apretar "iniciar sesión"
 
 ![Chromo](img/f12+chromo.png)
 
-Seleccionar el chromo
+Seleccionar el chrono
 
 ![Post](img/post.png)
 
 Copiar todo el header de la derecha
 
 ![Copiar](img/Copiar.png)
+
+## 2. Acceder al bot PavenerIA
 
 ## 2. Crear un Script para el fichaje
 
