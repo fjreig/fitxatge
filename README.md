@@ -30,30 +30,33 @@ Buscar la aplicación de Google chat "PavenerIA"
 
 ![PavenerIA](img/PavenerIA.png)
 
-## 2. Crear un Script para el fichaje
+Una vez dentro de la conversación del chat, apretar el botón "+" de al lado de campo de texto y buscar "otros agentes"
 
-### 2.1 Acceso a Apps Script
+![otros Agentes](img/otros_agentes.png)
+
+## 4. Crear un Script para el fichaje
+
+### 4.1 Acceso a Apps Script
 El primer paso es acceder a  <a href="https://script.google.com" target="_blank" rel="noopener noreferrer">Apps Script de Google</a>
 
 
-### 2.2 Crear nuevo proyecto
+### 4.2 Crear nuevo proyecto
 ![Nuevo Proyecto](img/nuevo_proyecto.png)
 
 
-### 2.3 Pegar el código en el nuevo proyecto
+### 4.3 Pegar el código en el nuevo proyecto
 
 Tanto el el fichero de Código.gs como el de secrets.gs, para el de secrets.gs hay que apretar el botón de "+" que aparece en Archivos
 
 ![Proyecto sin titulo](img/proyecto_sin_titulo.png)
 
-
-### 2.4 Ejecutar de forma Manual y dar permisos
+### 4.4 Ejecutar de forma Manual y dar permisos
 
 El primer paso es seleccionar "programarFichajesDelDia" y después darle a "Ejecutar". En breves saldrá una ventana solicitando que des autorización a Apps Script
 
 ![Ejecutar](img/ejecutar.png)
 
-#### 2.5 Crear un activador
+#### 4.5 Crear un activador
 
 El último paso, si funciona lo anterior, es crear un activador
 
