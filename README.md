@@ -2,6 +2,13 @@
 
 ## 1. Obtener credenciales de Bizneo
 
+### 1.1 Obtener cookies
+
+![Network](img/network.png)
+
+![Network](img/f12+crhomo.png)
+
+![Network](img/post.png)
 
 ## 2. Crear un Script para el fichaje
 
