@@ -27,3 +27,9 @@ El primer paso es seleccionar "programarFichajesDelDia" y después darle a "Ejec
 ![Ejecutar](img/ejecutar.png)
 
 #### 2.5 Crear un activador
+
+![Boton activador](img/boton_activador.png)
+
+![Boton activador](img/boton_activador.png)
+
+![Editar activador](img/editar_activador.png)
