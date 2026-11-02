@@ -16,9 +16,13 @@ Una vez en la pestaña Network, apretar "iniciar sesión"
 
 ![Chromo](img/f12+chromo.png)
 
-Copiar todo el header de la derecha
+Seleccionar el chromo
 
 ![Post](img/post.png)
+
+Copiar todo el header de la derecha
+
+![Copiar](img/Copiar.png)
 
 ## 2. Crear un Script para el fichaje
 
