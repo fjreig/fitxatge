@@ -47,12 +47,16 @@ Una vez dentro de la conversación del chat, apretar el botón "+" de al lado de
 
 ![otros Agentes](img/otros_agentes.png)
 
+Seleccionamos extraer cookies y pegamos el codigo copiado
+![Extraer cookies](img/extraer_cookies.png)
+
+Con el resultado lo pegaremos en las variables del fichero secrets.gs de Google Apps Scripts
+
 ## 2.2 obtener User y shift ID
 
 En la pestaña payload, se pueden obtener el user y shift ID que necesitaremos pegar en secrets.gs
 
 ![Payload](img/user_id.png)
-
 
 ## 4. Ejecutar el script
 
