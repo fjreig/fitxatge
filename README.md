@@ -1,8 +1,6 @@
 # Fitxatge bizneo
 
-<div style="padding: 10px; background-color: #fff3cd; border-left: 5px solid #ffc107;">
-  <strong>Cuidado:</strong> Este es un mensaje de alerta personalizado.
-</div>
+Script para automatizar el fichaje
 
 > [!CAUTION]
 > Es importante saber, que las cookies del Bizneo caducan cada pocos días, por lo que una vez por semana se tienen que obtener las cookies y pegarlas en el script.
