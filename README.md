@@ -1,4 +1,4 @@
-# fitxatge
+# Fitxatge bizneo
 
 > [!CAUTION]
 > Es importante saber, que las cookies del Bizneo caducan cada pocos días, por lo que una vez por semana se tienen que obtener las cookies y pegarlas en el script.
@@ -16,6 +16,10 @@ El primer paso es acceder a  <a href="https://script.google.com" target="_blank"
 Tanto el el fichero de Código.gs como el de secrets.gs, para el de secrets.gs hay que apretar el botón de "+" que aparece en Archivos
 
 ![Proyecto sin titulo](img/proyecto_sin_titulo.png)
+
+> [!NOTE]
+> Una vez pegado los dos códigos, apretar el botón de guardar para que no se pierda la información. El siguiente paso será obtener las cookies de la sesión de Bizneo
+
 
 ## 2. Obtener credenciales de Bizneo
 
