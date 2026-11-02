@@ -2,11 +2,17 @@
 
 ## 1. Obtener credenciales de Bizneo
 
+
 ### 1.1 Obtener cookies
+
+Una vez logeado en la pagina de bizneo, hay que apretar boton derecho con el raton y buscar "inspeccionar elemento"
+![Inspeccionar](img/inspeccionar.png)
+
+Una vez en la pestaña Network, apretar "iniciar sesión". Si no se ve la pestaña network, ampliar la ventana horizontalmente
 
 ![Network](img/network.png)
 
-Una vez en la pestaña Network, apretar "iniciar sesión". Si no se ve la pestaña network, ampliar la ventana horizontalmente
+
 
 ![Chromo](img/f12+chromo.png)
 
