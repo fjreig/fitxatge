@@ -67,7 +67,8 @@ En la pestaña payload, se pueden obtener el user y shift ID que necesitaremos p
 
 ## 4. Ejecutar el script
 
-Una vez copiado estos dos archivos ir hasta 
+> [!CAUTION]
+> Cuando ya se tengan todas las variables del script de srecets.gs, proceder a este punto
 
 ### 1.4 Ejecutar de forma Manual y dar permisos
 
