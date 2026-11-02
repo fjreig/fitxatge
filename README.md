@@ -6,9 +6,9 @@
 
 ![Network](img/network.png)
 
-![Network](img/f12+crhomo.png)
+![Chromo](img/f12+chromo.png)
 
-![Network](img/post.png)
+![Post](img/post.png)
 
 ## 2. Crear un Script para el fichaje
 
