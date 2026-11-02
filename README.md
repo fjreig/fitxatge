@@ -8,13 +8,15 @@
 Una vez logeado en la pagina de bizneo, hay que apretar boton derecho con el raton y buscar "inspeccionar elemento"
 ![Inspeccionar](img/inspeccionar.png)
 
-Una vez en la pestaña Network, apretar "iniciar sesión". Si no se ve la pestaña network, ampliar la ventana horizontalmente
+Si no se ve la pestaña network, ampliar la ventana horizontalmente y seleccionar network
 
 ![Network](img/network.png)
 
-
+Una vez en la pestaña Network, apretar "iniciar sesión"
 
 ![Chromo](img/f12+chromo.png)
+
+Copiar todo el header de la derecha
 
 ![Post](img/post.png)
 
