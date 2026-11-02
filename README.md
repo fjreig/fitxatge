@@ -36,11 +36,9 @@ Una vez dentro de la conversación del chat, apretar el botón "+" de al lado de
 
 ## 3. obtener User y shift ID
 
-### 3.1 ID Bizneo
+En la pestaña payload, se pueden obtener el user y shift ID que necesitaremos pegar en secrets.gs
 
-Ves a tu perfil de bizneo, despliega arriba a la derecha en el avatar y selecciona  "mi perfil"
-
-![Perfil Bizneo](img/id_bizneo.png)
+![Payload](img/user_id.png)
 
 ## 4. Crear un Script para el fichaje
 
