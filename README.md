@@ -13,4 +13,6 @@ El primer paso es acceder a  <a href="https://script.google.com" target="_blank"
 
 ### 1.3 Pegar el código en el nuevo proyecto
 
+Tanto el el fichero de Código.gs como el de secrets.gs, para el de secrets.gs hay que apretar el botón de "+" que aparece en Archivos
+
 ![Proyecto sin titulo](img/proyecto_sin_titulo.png)
