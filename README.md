@@ -46,18 +46,11 @@ Copiar todo el header de la derecha
 
 ![Copiar](img/Copiar.png)
 
-## 3. Acceder al bot PavenerIA
+Pegamos todo en un bloc de notas y buscamos las siguientes variables:
 
-Buscar la aplicación de Google chat "PavenerIA"
-
-![PavenerIA](img/PavenerIA.png)
-
-Una vez dentro de la conversación del chat, apretar el botón "+" de al lado de campo de texto y buscar "otros agentes"
-
-![otros Agentes](img/otros_agentes.png)
-
-Seleccionamos extraer cookies y pegamos el codigo copiado
-![Extraer cookies](img/extraer_cookies.png)
+  *  _hcmex_key
+  *  device_id
+  *  x-csrf-token
 
 Con el resultado lo pegaremos en las variables del fichero secrets.gs de Google Apps Scripts
 
