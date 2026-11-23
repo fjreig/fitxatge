@@ -60,6 +60,10 @@ En la pestaña payload, se pueden obtener el user y shift ID que necesitaremos p
 
 ![Payload](img/user_id.png)
 
+## 2.3 Rellenar el fichero secrets.gs
+
+![Copiar](img/secrets.png)
+
 ## 3. Ejecutar el script
 
 > [!CAUTION]
