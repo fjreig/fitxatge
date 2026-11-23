@@ -60,18 +60,18 @@ En la pestaña payload, se pueden obtener el user y shift ID que necesitaremos p
 
 ![Payload](img/user_id.png)
 
-## 4. Ejecutar el script
+## 3. Ejecutar el script
 
 > [!CAUTION]
 > Cuando ya se tengan todas las variables del script de srecets.gs, proceder a este punto
 
-### 1.4 Ejecutar de forma Manual y dar permisos
+### 3.1 Ejecutar de forma Manual y dar permisos
 
 El primer paso es seleccionar "programarFichajesDelDia" y después darle a "Ejecutar". En breves saldrá una ventana solicitando que des autorización a Apps Script
 
 ![Ejecutar](img/ejecutar.png)
 
-#### 4.2 Crear un activador
+#### 3.2 Crear un activador
 
 El último paso, si funciona lo anterior, es crear un activador
 
